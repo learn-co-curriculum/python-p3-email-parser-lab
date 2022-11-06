@@ -1,7 +1,7 @@
 from email_address_parser import EmailAddressParser
 
-class TestAnagram:
-    '''Class Anagram in anagram.py'''
+class TestEmailAddressParser:
+    '''Class EmailAddressParser in email_address_parser.py'''
 
     def test_instantiates_with_string(self):
         '''instantiates with a single argument, a string.'''
